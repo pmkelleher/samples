@@ -1,2 +1,2 @@
 # samples
-misc samples of things I work on
+Misc samples of things I work on.
